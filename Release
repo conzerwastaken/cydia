@@ -1,0 +1,20 @@
+Origin: Conzer's Repo
+Label: Conzer's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: My iOS tweak repo
+MD5Sum:
+ 60afef966a46cfef2a2a1f6c09336ed8 580 Packages
+ d0cb2f53125a5d92812941abdd901a71 418 Packages.gz
+ 12f341636ee3aecd3efab0ffedb3a6ab 443 Packages.bz2
+SHA1:
+ 68c7c0238844e1df852eb0c994afc54908b50d10 580 Packages
+ 44fb651b2df4d4bb0a649b1558d672e90d95bb5e 418 Packages.gz
+ 52ce3528ebd272b4903867c718cbff6dba26a864 443 Packages.bz2
+SHA256:
+ 557ea7b1fd132e4190eadb76109f1e620b18d6712a6620ee0ed5fcc2b4801708 580 Packages
+ 291bf081d2ae546735945d6dd1aa6ba0ded2ed2d2e3d24f70320e218439d6125 418 Packages.gz
+ c234d2ea8f880ddd5adb0ce19dfde5cdf370c8d4f3537788d0a0be853bbab6a5 443 Packages.bz2
