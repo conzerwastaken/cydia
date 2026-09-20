@@ -16,17 +16,17 @@ Depiction: https://conzy.nekoweb.org/repo/depictions/org.conzer.homeunlock.html
 Name: HomeUnlock
 
 Package: org.conzer.homeunlock.debug
-Version: 1.1.0
+Version: 1.1.0+1
 Architecture: iphoneos-arm
 Maintainer: conzer
 Installed-Size: 272
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/org.conzer.homeunlock.debug_1.1.0_iphoneos-arm.deb
-Size: 17438
-MD5sum: 2c9d471047a9dcbdca70378f8769de3c
-SHA1: 3d0d338dcd0bceede8ba01733e53372efbcd4944
-SHA256: 927d3c788a9dac14f1458c95729e0af10526977345004244fef3e1656aafc3d2
-Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: debs/org.conzer.homeunlock.debug_1.1.0+1_iphoneos-arm.deb
+Size: 17480
+MD5sum: f1399051fb0123b3ab6dd749900778f1
+SHA1: 36bea9841592980ce9c66db2e0f66e01de557da5
+SHA256: 5409a6ec13b202486af51b02f3d96334e8fc63ff6b8cfeeb776b09a5143af45b
+Section: Beta
 Description: iOS 10? in MY iOS 8? It's more likely than you think! (BETA PACKAGE.)
 Author: conzer
 Depiction: https://conzy.nekoweb.org/repo/depictions/org.conzer.homeunlock.html
