@@ -33,16 +33,16 @@ Depiction: https://conzerwastaken.github.io/cydia/depictions/org.conzer.homeunlo
 Name: HomeUnlock
 
 Package: org.conzer.custolock
-Version: 0.1.0-8+debug
+Version: 0.1.0-9+debug
 Architecture: iphoneos-arm
 Maintainer: conzer
-Installed-Size: 552
+Installed-Size: 392
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/org.conzer.custolock_0.1.0-8+debug_iphoneos-arm.deb
-Size: 81260
-MD5sum: b33c760d5023f4f56f5dc08f4a0f41b9
-SHA1: 102f84bfb069ba9cc0bb16acd7565a51d685a65d
-SHA256: df263b29e9b4d36c6ee19be2716e1dea15c84bca7e0bf8a51fb40b4b9ba6d2d9
+Filename: debs/org.conzer.custolock_0.1.0-9+debug_iphoneos-arm.deb
+Size: 60232
+MD5sum: 3d3a88ba23e3c8de729420ec4b2ec005
+SHA1: d682fef6e287e58046486d27471e92a88444ee6e
+SHA256: fbb9ee27a8b055409a2ce55877b9d0a78d1517cbb51fcbc27b7f06d8656328d0
 Section: Beta
 Description: Customize your lockscreen! (BETA)
 Author: conzer
